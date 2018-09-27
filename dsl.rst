@@ -1054,7 +1054,6 @@ Enum List of Severities
 * ``Warning = 1``
 * ``Critical = 2``
 
-
 .. code-block:: javascript
 	var advice = new CmonAdvice();
 	advice.setSeverity(1); // Where 1 == Warning which is same as advice.setSeverity(Warning)
